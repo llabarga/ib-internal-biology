@@ -1,7 +1,7 @@
 # Tu cara me suena (demasiado)
 ## Internal Asessment for Bioplogy IB 2021
 
-![polar bear](https://www.wwf.org.uk/sites/default/files/styles/social_share_image/public/2016-12/Original_WW22791.jpg?itok=Ouo7tsEJ)
+![polar bear](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bear-1549900314.jpg?crop=0.668xw:1.00xh;0.129xw,0&resize=480:*)
 
 ### *Index*
 - Introducción
